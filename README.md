@@ -1,2 +1,2 @@
 # gitboradProject
-https://github.com/dltkdals20/gitboradProject/blob/master/travelBroadManual(portfolio).pdf
+https://nbviewer.org/github/dltkdals20/gitboradProject/blob/master/travelBroadManual%28portfolio%29.pdf
