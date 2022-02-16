@@ -16,4 +16,7 @@
 <<여행게시판 소스 메뉴얼파일>>
 https://nbviewer.org/github/dltkdals20/gitboradProject/blob/master/travelBroadManual%28portfolio%29.pdf
 
-![슬라이드1](https://user-images.githubusercontent.com/86944912/154213853-e000cfc4-6225-4ef9-bbab-67db15814585.JPG)
+![슬라이드1](https://user-images.githubusercontent.com/86944912/154213853-e000cfc4-6225-4ef9-bbab-67db15814585.JPG)<br>
+##<<회원가입 화면>>
+![슬라이드11](https://user-images.githubusercontent.com/86944912/154217867-3dfb15a7-9a59-48b0-b4cf-a25f3b4629bf.JPG)
+##<<로그인 화면>>
