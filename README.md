@@ -20,4 +20,8 @@ https://nbviewer.org/github/dltkdals20/gitboradProject/blob/master/travelBroadMa
 ## 회원가입 화면
 ![슬라이드11](https://user-images.githubusercontent.com/86944912/154217867-3dfb15a7-9a59-48b0-b4cf-a25f3b4629bf.JPG)<br>
 ## 로그인 화면
-![슬라이드16](https://user-images.githubusercontent.com/86944912/154218346-f2ffd727-3c44-482d-9a1e-42c9d4ce22d5.JPG)
+![슬라이드16](https://user-images.githubusercontent.com/86944912/154218346-f2ffd727-3c44-482d-9a1e-42c9d4ce22d5.JPG)<br>
+## 게시판 메인화면
+<img width="899" alt="제목 없음" src="https://user-images.githubusercontent.com/86944912/154244342-515245e2-779f-41f7-88f7-110d8db78045.png"><br>
+## 마이페이지
+![슬라이드28](https://user-images.githubusercontent.com/86944912/154244782-bd558a48-0fd4-4f7b-a7a7-e3818bfaeb19.JPG)
